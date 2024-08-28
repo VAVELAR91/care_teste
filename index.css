@@ -1,0 +1,90 @@
+.rowTP01 {
+    width: 100%;
+    border: 1px solid #c7a460;
+    background-color: #f4edd5;
+    margin: 10px 0px 10px 0px;
+    padding: 0px 0px 0px 3px;
+}
+.rowTP01 div.wID15 {
+    width: 15%;
+}
+.box td, .rowTP01 div, .tabNFe td {
+    vertical-align: top;
+}
+.box label, .rowTP01 div label {
+    display: block;
+    text-transform: none;
+    vertical-align: middle;
+    /* padding: 4px 0px 0px 6px; */
+    font-family: Trebuchet MS, Arial, Verdana, Helvetica, sans-serif;
+    font-size: 11px;
+    min-height: 15px;
+    font-weight: normal;
+    color: #6f5e39;
+    text-align: left;
+    padding: 2px;
+}
+.rowTP01 p {
+    height: auto !important;
+    height: 15px;
+    min-height: 15px;
+    display: block;
+    background-position: center;
+    border: solid 1px #d6c39e;
+    background-color: #fbfbf5;
+    padding: 2px 2px 2px 3px;
+    margin: 3px 0px 4px 0px;
+}
+.rowTP01 div {
+    display: inline-block;
+}
+.rowTP01 div.wID20 {
+    width: 19%;
+}
+.THead_NFe {
+    text-align: left;
+    border: none;
+    font-size: 14px;
+    height: 15px;
+    font-weight: bold;
+    width: 98%;
+    display: block;
+    vertical-align: middle;
+    color: #b27235;
+    border: none;
+    font-family: Trebuchet MS, Arial, Verdana, Helvetica, sans-serif;
+}
+.notas{
+    width: 100%;
+    margin-top: 150px;
+}
+.notas_conteudo{
+    width: 80%;
+    margin: auto;
+}
+.formulario{
+    width: 100%;
+    text-align: center;
+}
+.mensagem{
+    width: 100%;
+    text-align: center;
+    color: red;
+}
+.resultado{
+    width: 100%;
+    text-align: center;
+}
+.resultado div{
+    display: inline-block;
+    width: 200px;
+    border: 1px solid #c7a460;
+    background-color: #f4edd5;
+    margin: 10px 0px 10px 0px;
+    padding: 0px 0px 0px 3px;
+}
+.gravar{
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+}
